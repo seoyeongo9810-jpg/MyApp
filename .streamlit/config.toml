@@ -1,8 +1,0 @@
-[theme]
-base = "light"
-primaryColor = "#2E9E5B"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F1F8F4"
-textColor = "#1F2A24"
-borderColor = "#D5E8DC"
-baseRadius = "0.6rem"
